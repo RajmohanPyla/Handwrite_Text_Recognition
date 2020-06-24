@@ -46,3 +46,5 @@ Want to run on beamSearch decoder run
 python3 main.py --beamsearch
 
 
+# Note
+It is trained and test on tensorflow==1.14
