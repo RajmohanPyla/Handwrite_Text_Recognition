@@ -39,6 +39,7 @@ It will run automatically on test-5.jpg images which is provided in data/test_im
 Wanted to change the image give the image path in 18th line i.e, fnInfer = 'image path'
 
 Want to run on beamSearch decoder run 
+
 python3 main.py --beamsearch
 
 
