@@ -13,7 +13,9 @@ sudo pip3 install -r requirements.txt
 
 Download the dataset from the above link and keep words folder and words.txt file in data
 For training go into the src folder and run the train.py file
+
 python3 train.py
+
 The model which is provided into repo is trainned till 27 epoches and it is saved 12.348896% validation character error rate.
 So Word accuracy: 71.236111%. and Character error rate: 12.502647%
 Colab training file Handwrite_Text_Recognition_Training.ipynb is given in the src folder for training in google colab.
@@ -21,6 +23,7 @@ Colab training file Handwrite_Text_Recognition_Training.ipynb is given in the sr
 # Validation 
 
 For validating the training data run validation.py file in src floder.
+
 python3 validation.py
 
 The validation for this model is 
