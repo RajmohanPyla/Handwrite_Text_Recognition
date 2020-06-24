@@ -40,8 +40,6 @@ def main():
 	decoderType = DecoderType.BestPath
 	if args.beamsearch:
 		decoderType = DecoderType.BeamSearch
-	elif args.wordbeamsearch:
-		decoderType = DecoderType.WordBeamSearch
 
 	# infer text on test image
 	
