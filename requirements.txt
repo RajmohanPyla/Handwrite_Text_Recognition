@@ -15,4 +15,4 @@ tensorflow==1.14
 tensorboard==1.14
 tensorflow-gpu==1.14
 termcolor==1.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
