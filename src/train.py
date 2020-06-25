@@ -96,8 +96,6 @@ def main():
 	decoderType = DecoderType.BestPath
 	if args.beamsearch:
 		decoderType = DecoderType.BeamSearch
-	elif args.wordbeamsearch:
-		decoderType = DecoderType.WordBeamSearch
 
 	# training on IAM dataset	
 	
