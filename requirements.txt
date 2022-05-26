@@ -11,7 +11,7 @@ numpy==1.16.1
 opencv-python==4.0.0.21
 protobuf==3.6.1
 six==1.12.0
-tensorflow==1.14
+tensorflow==2.7.2
 tensorboard==1.14
 tensorflow-gpu==1.14
 termcolor==1.1.0
